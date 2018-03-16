@@ -8,7 +8,7 @@
 
 .center {
   text-align: center;
-
+  padding-top: 60px;
 }
 .myself img{
   float:left;
@@ -27,7 +27,7 @@
   height: 400px;
   color: green;
 }
-.namebox {
+.introduction {
   border: 5px solid red;
   padding: 5px;
   background-color: orange;
