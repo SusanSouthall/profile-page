@@ -6,7 +6,7 @@
 
 ## Description
 
-This is my first profile page utilizing the languages HTML and CSS.  Bootstrap has been added to further explore styling techniques such as containers, rows, and columns.  This has taught me some basic structuring of a webpage and practice using HTML and CSS.  Please view my profile page <a href="">here</a>.
+This is my first profile page utilizing the languages HTML and CSS.  Bootstrap has been added to further explore styling techniques such as containers, rows, and columns.  This has taught me some basic structuring of a webpage and practice using HTML and CSS.  Please view my profile page [here](https://susansouthall.github.io/profile-page/).
 
 ## Setup/Installation Requirements
 
